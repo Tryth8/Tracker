@@ -1,6 +1,2 @@
 # djangoReactToDo
-Stack
-Django
-DRF
-React (axios)
-Bootstrap
+Stack: Django, DRF, React(axios), Bootstrap
