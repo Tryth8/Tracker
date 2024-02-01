@@ -1,0 +1,26 @@
+/*Home*/
+.homepage {
+    color: white;
+}
+
+.get-started,
+.features,
+.send-message {
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    transition: background 5s ease; /* Add transition for the background property */
+}
+
+.get-started {
+
+}
+
+.features {
+    background: linear-gradient(to top, #a6287f, #0e355a);
+}
+
+.send-message {
+    background: url(../images/background-2.jpg) no-repeat;
+    background-size: cover;
+}

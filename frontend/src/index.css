@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    color: white;
+}
+
+.btn{
+    border: solid 2px black;
+    background-color: #0e355a;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #a6287f;
+    border: solid 2px black;
+}
+
+.link{
+    color: white;
+}
